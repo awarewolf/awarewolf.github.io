@@ -1,6 +1,8 @@
-# Minimal Mistakes
+# Simon Prégent
 
-**[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog.
+My personal site, where I showcase stuff I've made and maybe even post a rant now and again.
+
+** This site is based on [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** a two column responsive Jekyll theme perfect for powering GitHub hosted blogs.
 
 ## Minimal Mistakes is all about:
 
@@ -11,13 +13,3 @@
 * Simple and clear permalink structure.
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
 * Support for Disqus Comments
-
-![screenshot of Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes/images/mm-theme-post-600.jpg)
-
-See a [live version of Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/) hosted on GitHub.
-
-## Getting Started
-
-Minimal Mistakes takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
-
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/minimal-mistakes/theme-setup/) for more information.
